@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Actividad 4 - 3Botones</string>
+    <string name="text_1">Coloca la URL Aquí</string>
+    <string name="text_2">Escribe tu Mensaje</string>
+    <string name="text_3">Celular</string>
+    <string name="text_4">Bienvenido a Teen Informatics</string>
+    <string name="text_5">Número Telefónico</string>
+    <string name="button1">Abrir</string>
+    <string name="button2">Mandar Mensaje</string>
+    <string name="button3">Marcar</string>
+</resources>
